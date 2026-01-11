@@ -4,7 +4,7 @@ This repository documents my progress through the **OverTheWire Bandit** wargame
 
 Bandit is designed to teach core Linux skills through hands-on problem solving. Each level introduces a new concept or reinforces an existing one, requiring practical use of commands rather than theory alone.
 
-This repo serves as a **learning log**, not a solution dump. I record what I did at each stage, the commands or concepts involved, and the key takeaway from the level — without exposing passwords or sensitive data.
+This repo serves as a **learning log**, not a solution dump. I record what I did at each stage, the commands or concepts involved, and the key takeaway from the level without exposing passwords or sensitive data.
 
 ## What this repository contains
 
